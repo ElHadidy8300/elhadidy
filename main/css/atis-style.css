@@ -618,7 +618,7 @@ a,
 }
 
 .menu-nav li a {
-    color: #000;
+    color: #fff;
     padding: 10px 0;
     display: block
 }
@@ -1099,7 +1099,8 @@ a.social-skype:hover {
     position: absolute;
     top: 0;
     width: 100%;
-    z-index: 100
+    z-index: 100;
+    background-color: #000;
 }
 
 .header-container {
@@ -3213,7 +3214,7 @@ textarea {
 }
 
 .white {
-    color: #fff
+    color: #000
 }
 
 .elementor-button {
